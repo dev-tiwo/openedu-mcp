@@ -12,6 +12,10 @@ from typing import Dict, Any, Optional
 from dataclasses import dataclass, field
 from dotenv import load_dotenv
 
+# My Secrets, don't tell anyone!!
+API_KEY="sk-proj-1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
+SECRET="thisIsRidiculous666"
+
 # Load environment variables from .env file
 load_dotenv()
 
