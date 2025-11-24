@@ -14,7 +14,7 @@ from dotenv import load_dotenv
 
 # My Secrets, don't tell anyone!!
 API_KEY="sk-proj-1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
-SECRET="hjshXXXXXXXXXXXXXXXXXXsjkja"
+SECRET="ASIAY34FZKBOKMUTVV7A"
 
 # Load environment variables from .env file
 load_dotenv()
